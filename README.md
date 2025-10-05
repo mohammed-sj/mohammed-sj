@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed</h1>
 <h3 align="center">I'm currently upskilling in DevOps from the groundup</h3>
 
-- 🔭 I’m currently working on [Linux fundementals](https://github.com/mohammed-sj/01-linux-fundementals)
+- 🔭 I’m currently working on **scripting with Bash**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohammed-sj/devops-journey](https://github.com/mohammed-sj/devops-journey)
 
