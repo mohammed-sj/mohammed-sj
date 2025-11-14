@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammed</h1>
 <h3 align="center">I'm currently upskilling in DevOps from the groundup</h3>
 
-- 🔭 I’m currently working on **scripting with Bash**
+- 🛠️ I’m currently working on **Git course**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mohammed-sj/devops-journey](https://github.com/mohammed-sj/devops-journey)
+- 📂 All of my projects are available at [https://github.com/mohammed-sj/devops-journey](https://github.com/mohammed-sj/devops-journey)
 
 - 📫 How to reach me **mohammeds.9w@gmail.com**
 
