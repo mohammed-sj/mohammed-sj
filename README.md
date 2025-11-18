@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammed</h1>
-<h3 align="center">Currently upskilling in DevOps — learning the fundamentals properly, one step at a time.</h3>
+<h3 align="center">Currently upskilling in DevOps. Taking a fundamentals first approach and documenting my progress as I go.</h3>
 
-- 🌐 I’m currently working through **Networking Basics** (DNS, HTTP, routing, troubleshooting)
-- 📂 All of my modules and projects can be found here:  
-  **https://github.com/mohammed-sj/devops-journey**
+- 🌐 I’m currently working through **Networking**
+- 📂 All of my modules and projects can be found here: **https://github.com/mohammed-sj/devops-journey**
 - 📫 Reach me at **mohammeds.9w@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
