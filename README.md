@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed</h1>
 <h3 align="center">Currently upskilling in DevOps. Taking a fundamentals first approach and documenting my progress as I go.</h3>
 
-- 🌐 I’m currently working through **Networking**
+- 🐳 I’m currently working through **Containers and Docker**
 - 📂 All of my modules and projects can be found here: **https://github.com/mohammed-sj/devops-journey**
 - 📫 Reach me at **mohammeds.9w@gmail.com**
 
